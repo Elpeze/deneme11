@@ -1,2 +1,3 @@
 # deneme11
-Denenecek kodlar için oluşturulmuş repo
+Denenecek kodlar için oluşturulmuş repo.
+
